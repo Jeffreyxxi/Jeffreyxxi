@@ -1,0 +1,3 @@
+import comp from "/Users/jianjiuping/projects/jeffrey/notes/docs/.vuepress/.temp/pages/linux.html.vue"
+const data = JSON.parse("{\"path\":\"/linux.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{\"prev\":\"./javascript\",\"next\":\"./node\"},\"headers\":[{\"level\":2,\"title\":\"Linux 命令整理\",\"slug\":\"linux-命令整理\",\"link\":\"#linux-命令整理\",\"children\":[{\"level\":3,\"title\":\"scp命令\",\"slug\":\"scp命令\",\"link\":\"#scp命令\",\"children\":[]},{\"level\":3,\"title\":\"ssh 远程登陆\",\"slug\":\"ssh-远程登陆\",\"link\":\"#ssh-远程登陆\",\"children\":[]}]}],\"git\":{},\"filePathRelative\":\"linux.md\"}")
+export { comp, data }

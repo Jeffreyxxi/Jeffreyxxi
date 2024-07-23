@@ -1,0 +1,3 @@
+import comp from "/Users/jianjiuping/projects/jeffrey/notes/docs/.vuepress/.temp/pages/node.html.vue"
+const data = JSON.parse("{\"path\":\"/node.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{\"prev\":\"./linux\",\"next\":\"./modules\"},\"headers\":[{\"level\":2,\"title\":\"Node 学习和笔记整理\",\"slug\":\"node-学习和笔记整理\",\"link\":\"#node-学习和笔记整理\",\"children\":[{\"level\":3,\"title\":\"nvs\",\"slug\":\"nvs\",\"link\":\"#nvs\",\"children\":[]},{\"level\":3,\"title\":\"npx\",\"slug\":\"npx\",\"link\":\"#npx\",\"children\":[]},{\"level\":3,\"title\":\"mac切换node版本后，yarn 命令 not found\",\"slug\":\"mac切换node版本后-yarn-命令-not-found\",\"link\":\"#mac切换node版本后-yarn-命令-not-found\",\"children\":[]}]}],\"git\":{},\"filePathRelative\":\"node.md\"}")
+export { comp, data }
