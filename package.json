@@ -4,7 +4,8 @@
   "description": "jeffrey's notes",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
   "main": "index.js",
   "author": "jeffrey",
