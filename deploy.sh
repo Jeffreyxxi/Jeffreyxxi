@@ -13,7 +13,7 @@ cd docs/.vuepress/dist
 # echo 'www.example.com' > CNAME
 
 git init
-git checkout -b main
+git checkout -b master
 git add .
 git commit -m 'deploy'
 
