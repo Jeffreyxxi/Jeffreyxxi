@@ -12,6 +12,9 @@ cd docs/.vuepress/dist
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
 
+# 增加git忽略文件
+echo "node_modules" > .gitignore
+
 git init
 git checkout -b master
 git add .
