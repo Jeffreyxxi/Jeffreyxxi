@@ -18,7 +18,7 @@ git add .
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
-git push -f git@github.com:jeffreyxxi/jeffreyxxi.git main
+git push -f git@github.com:jeffreyxxi/jeffreyxxi.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git remote add origin git@github.com:huabingtao/vuepress-starter.git

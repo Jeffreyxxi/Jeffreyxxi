@@ -3,7 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
-  base: "/jeffreyxxi/",
+  base: "/",
   bundler: viteBundler(),
   theme: defaultTheme({
     navbar: [

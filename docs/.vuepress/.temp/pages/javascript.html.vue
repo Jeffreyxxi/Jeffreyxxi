@@ -176,7 +176,7 @@
 <p>简单调用，如果 this 值不是由调用设置的，则指向全局对象，严格模式下为 undefined；</p>
 </li>
 <li>
-<p>call(),apply()和 bind() 函数内时， 参考 <a href="/javascript.html#call-apply-bind" target="_blank" rel="noopener noreferrer">call(),apply(),bind()</a></p>
+<p>call(),apply()和 bind() 函数内时， 参考 <RouteLink to="/javascript.html#call-apply-bind">call(),apply(),bind()</RouteLink></p>
 </li>
 <li>
 <p>在箭头函数中，this 与封闭词法环境的 this 保持一致。在全局代码中，它将被设置为全局对象。</p>
